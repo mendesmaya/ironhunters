@@ -1,0 +1,1 @@
+1. Abra index.html num navegador para testar. 2. Para partilhar, abra https://app.netlify.com/drop e arraste esta pasta completa para la. 3. Copie o URL HTTPS fornecido e envie ao grupo. A aplicacao nao recebe dados automaticamente do IRONMAN Tracker; introduza manualmente km e hora de passagem. O mapa 3D precisa de Internet.
